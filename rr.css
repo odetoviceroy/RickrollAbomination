@@ -1,0 +1,13 @@
+    p{
+        font-family:"Open sans", sans-serif, arial;
+    }
+    h1{
+        font-family:"Open sans", sans-serif, arial;
+    }
+    #pic img{
+        height:300px;
+        width:500px;
+    }
+    #mainContent{
+        background-image: url("http://media.tumblr.com/tumblr_m5fgp588fa1r5ykii.png");
+    }
